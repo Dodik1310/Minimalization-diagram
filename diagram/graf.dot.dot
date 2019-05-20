@@ -1,0 +1,13 @@
+digraph G{{b0[label=b]}->{a1[label=a]}[label = 0]
+{b0[label=b]}->{a2[label=a]}[label = 1]
+{b0[label=b]}->{a3[label=a]}[label = 2]
+{a1[label=a]}->{04[label=0]}[label = 0]
+{a1[label=a]}->{15[label=1]}[label = 1]
+{a1[label=a]}->{15[label=1]}[label = 2]
+{a2[label=a]}->{26[label=2]}[label = 0]
+{a2[label=a]}->{04[label=0]}[label = 1]
+{a2[label=a]}->{04[label=0]}[label = 2]
+{a3[label=a]}->{26[label=2]}[label = 0]
+{a3[label=a]}->{26[label=2]}[label = 1]
+{a3[label=a]}->{26[label=2]}[label = 2]
+}

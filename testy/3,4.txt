@@ -1,0 +1,5 @@
+Vysledné hodnoty pre počet hodnôt funckie: 3 a pre počet premenných: 4
+Počet funkcii: 1000
+Entropia  za podmienky všetkých premenných: 28.152
+Entropia  za podmienky jednej premennej: 28.647
+Logické derivácie: 28.046
